@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tencent Meeting Transcript"
+  short_description: "Fetch public Tencent Meeting page transcripts"
+  default_prompt: "Use $tencent-meeting-transcript to fetch the page-provided transcript from this Tencent Meeting share URL."
